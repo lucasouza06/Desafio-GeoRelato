@@ -1,0 +1,42 @@
+{
+    "578623444": {
+        "nome": "Lucas Andrade Souza",
+        "documento": "578623444",
+        "email": "lucasandrade10@gmail.com",
+        "telefone": "11946623123",
+        "localizacao": [
+            -23.55,
+            -46.63
+        ]
+    },
+    "123456789": {
+        "nome": "Lucas",
+        "documento": "123456789",
+        "email": "lucas@email.com",
+        "telefone": "11999999999",
+        "localizacao": [
+            -23.56,
+            -46.64
+        ]
+    },
+    "123456788": {
+        "nome": "Jo\u00e3o Silva",
+        "documento": "123456788",
+        "email": "joao@email.com",
+        "telefone": "11999999999",
+        "localizacao": [
+            -23.56,
+            -46.64
+        ]
+    },
+    "12345678900": {
+        "nome": "Lucas Silva",
+        "documento": "12345678900",
+        "email": "lucas@email.com",
+        "telefone": "11999999999",
+        "localizacao": [
+            -23.55,
+            -46.63
+        ]
+    }
+}

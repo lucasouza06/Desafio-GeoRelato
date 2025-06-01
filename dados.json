@@ -1,0 +1,42 @@
+[
+    {
+        "tipo": "Enchente",
+        "descricao": "Rua alagada ap\u00f3s chuvas fortes",
+        "data": "2025-06-01",
+        "hora": "14:00",
+        "localizacao": [
+            -23.55,
+            -46.63
+        ],
+        "relator": {
+            "nome": "Lucas Silva",
+            "documento": "12345678900",
+            "email": "lucas@email.com",
+            "telefone": "11999999999",
+            "localizacao": [
+                -23.55,
+                -46.63
+            ]
+        }
+    },
+    {
+        "tipo": "Deslizamento",
+        "descricao": "Barranco cedeu pr\u00f3ximo \u00e0 escola",
+        "data": "2025-06-01",
+        "hora": "15:00",
+        "localizacao": [
+            -23.54,
+            -46.62
+        ],
+        "relator": {
+            "nome": "Lucas Silva",
+            "documento": "12345678900",
+            "email": "lucas@email.com",
+            "telefone": "11999999999",
+            "localizacao": [
+                -23.55,
+                -46.63
+            ]
+        }
+    }
+]
