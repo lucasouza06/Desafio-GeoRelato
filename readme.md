@@ -100,8 +100,7 @@ Criar uma API REST para acessar os relatos via HTTP.
 
 Interface gráfica leve com Tkinter ou PyWebIO.
 
-🧑‍💻 Autor
+
 Desenvolvido por Lucas Andrade Souza
-🔗 Repositório no GitHub
 
 📬 Para dúvidas, contribuições ou sugestões, entre em contato por email ou GitHub!
